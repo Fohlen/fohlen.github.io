@@ -1,7 +1,7 @@
 ---
 title: "Python dataclasses, a package full of surprises"
 author: "Lennard Berger"
-date: "2023-07-26"
+date: "2023-05-14"
 categories: [python,dataclasses]
 bibliography: references.bib
 ---
