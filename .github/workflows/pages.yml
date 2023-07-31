@@ -15,12 +15,10 @@ jobs:
     # At a minimum this job should upload artifacts using actions/upload-pages-artifact
     runs-on: ubuntu-latest
     steps:
-      - uses: quarto-dev/quarto-actions/setup@v2
-        name: Setup quarto
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
         with:
-          version: 1.3.361
-      - name: Build blog
-        run: quarto render
+          path: . # By default, the current working dir is used i.e `quarto render .`
       - name: Fix permissions
         run: |
           chmod -v -R +rX "_site/" | while read line; do
