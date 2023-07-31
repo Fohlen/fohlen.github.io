@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: quarto-dev/quarto-actions/setup@v2
       - name: Render Quarto Project
-      - run: quarto render
+        run: quarto render
       - name: Fix permissions
         run: |
           chmod -v -R +rX "_site/" | while read line; do
