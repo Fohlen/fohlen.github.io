@@ -7,6 +7,11 @@ website:
     right:
       - icon: github
         href: https://github.com/Fohlen
+  comments:
+    giscus:
+      repo: Fohlen/fohlen.github.io
+      category: announcements
+
 format:
   html:
     theme:
