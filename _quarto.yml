@@ -10,7 +10,8 @@ website:
   comments:
     giscus:
       repo: Fohlen/fohlen.github.io
-      category: announcements
+      category-id: DIC_kwDOKB5nec4CZsK6
+      mapping: pathname
 
 format:
   html:
