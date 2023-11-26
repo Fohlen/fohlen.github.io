@@ -7,6 +7,10 @@ website:
     right:
       - icon: github
         href: https://github.com/Fohlen
+  google-analytics:
+    tracking-id: "G-L4ESZR26GV"
+    anonymize-ip: true
+    storage: none
 
 format:
   html:
