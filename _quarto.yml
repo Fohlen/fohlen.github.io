@@ -7,11 +7,6 @@ website:
     right:
       - icon: github
         href: https://github.com/Fohlen
-  comments:
-    giscus:
-      repo: Fohlen/fohlen.github.io
-      category-id: DIC_kwDOKB5nec4CZsK6
-      mapping: pathname
 
 format:
   html:
