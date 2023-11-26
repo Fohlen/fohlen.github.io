@@ -1,5 +1,6 @@
 ---
 title: "Python dataclasses, a package full of surprises"
+description: "When it comes to serialisation, premature optimisation is worth the effort. A cautionary tale of Python's dataclass library."
 author: "Lennard Berger"
 date: "2023-05-14"
 categories: [python,dataclasses]

@@ -1,5 +1,6 @@
 ---
 title: "yGuard is now open source - obfuscation easy as pie"
+description: "yGuard, a Java bytecode obfuscation and shrinking tool, has been released openly, thanks to a joint effort with yWorks."
 author: "Lennard Berger"
 date: "2020-01-08"
 categories: [java,oss,obfuscation]

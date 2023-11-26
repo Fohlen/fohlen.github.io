@@ -1,5 +1,6 @@
 ---
 title: "Who wrote it first, or: why originality matters?"
+description: "A perspective on the news industry and how to create more relevant news feeds for your customers."
 author: "Lennard Berger"
 date: "2023-06-15"
 categories: [news,originality]
