@@ -7,13 +7,12 @@ website:
     right:
       - icon: github
         href: https://github.com/Fohlen
-  google-analytics:
-    tracking-id: "G-L4ESZR26GV"
-    anonymize-ip: true
-    storage: none
 
 format:
   html:
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://fohlen.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     theme:
       light: flatly
       dark: darkly
