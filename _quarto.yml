@@ -1,17 +1,17 @@
+---
 project:
   type: website
-
 website:
-  title: "Lennard Berger's blog"
+  title: Lennard Berger's blog
   navbar:
     right:
       - icon: github
         href: https://github.com/Fohlen
-
 format:
   html:
     include-in-header:
-      text: |
+      text: >
+        <meta name="google-site-verification" content="nxpWrXt97X-soIBX-zibrfoR5k3EpoomKitRnQRLh70" />
         <script data-goatcounter="https://fohlen.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     theme:
       light: flatly
