@@ -3,6 +3,7 @@ project:
   type: website
 website:
   title: Lennard Berger's blog
+  site-url: 'https://fohlen.github.io'
   navbar:
     right:
       - icon: github
