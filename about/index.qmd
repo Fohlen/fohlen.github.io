@@ -3,10 +3,6 @@ title: "About me"
 about:
   template: jolla
   image: me.webp
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com
 ---
 
 Hi there! I am a Cognitive Scientist interested in the mechanisms underpinning (human and machine) learning. 
