@@ -2,25 +2,16 @@
 listing:
   contents: posts
   sort: "date desc"
-  type: grid
+  fields: [image, date, title, description, reading-time]
+  type: default
   categories: false
   sort-ui: false
   filter-ui: false
   page-size: 9
 page-layout: full
-title-block-banner: false
 comments: false
 ---
 
-I am a computational linguist interested in the mechanisms underpinning (human and machine) learning. 
+# You've landed on the fallback page
 
-My tinkering is primarily done in 🐍, which I firmly believe to have one of the most productive standard libraries to date. Other than that most any problem deserves its own solution.
-
-Presently I work for [YUKKA Lab](https://www.yukkalab.com), a news analytics company, as the data engineering team lead of a fantastic group of people, where we are aiming to create a comprehensive knowledge graph of the world.
-Before I've worked with the great folks at [yWorks](https://www.yworks.com) and [mecodia](https://mecodia.de).
-
-### Contact me
-
-If you feel like my posts were useful to you, you can contact me under lbe at yukkalab dot com.
-
-### Posts & presentations
+This fallback page appears to be a statistician's blog. Hopefully this clarifies some things.

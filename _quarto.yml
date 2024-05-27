@@ -6,6 +6,7 @@ website:
   site-url: 'https://fohlen.github.io'
   navbar:
     right:
+      - about/index.qmd
       - icon: github
         href: https://github.com/Fohlen
 format:
@@ -17,4 +18,3 @@ format:
     theme:
       light: flatly
       dark: darkly
-    css: styles.css
