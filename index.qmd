@@ -2,7 +2,7 @@
 listing:
   contents: posts
   sort: "date desc"
-  fields: [image, date, title, description, reading-time]
+  fields: [image, date, title, description, reading-time, categories]
   type: default
   categories: false
   sort-ui: false
@@ -12,8 +12,8 @@ listing:
 comments: false
 ---
 
-<h1 class="text-center">You've landed on the fallback page</h1>
+<h1 class="text-center">Default page</h1>
 
-<p class="text-center"> This fallback page appears to be a statistician's blog. Hopefully this clarifies some things. </p>
+<p class="text-center"> This default page appears to be a statistician's blog. Hopefully this clarifies some things. </p>
 
 ---
