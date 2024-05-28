@@ -8,10 +8,12 @@ listing:
   sort-ui: false
   filter-ui: false
   page-size: 9
-page-layout: full
+  image-align: left
 comments: false
 ---
 
-# You've landed on the fallback page
+<h1 class="text-center">You've landed on the fallback page</h1>
 
-This fallback page appears to be a statistician's blog. Hopefully this clarifies some things.
+<p class="text-center"> This fallback page appears to be a statistician's blog. Hopefully this clarifies some things. </p>
+
+---

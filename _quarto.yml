@@ -16,5 +16,5 @@ format:
         <meta name="google-site-verification" content="nxpWrXt97X-soIBX-zibrfoR5k3EpoomKitRnQRLh70" />
         <script data-goatcounter="https://fohlen.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     theme:
-      light: flatly
-      dark: darkly
+    - cosmo
+    - theme/custom.scss

@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+/**
+From Hugo Apero's sky theme
+
+// set your custom colors here
+$siteBgColorCustom: #f2f2f1;
+$sidebarBgColorCustom: #FFFFFF;
+$textColorCustom: #404040;
+$sidebarTextColorCustom: #2c2857;
+$headlineColorCustom: #516DB0;
+$headingColorCustom: #516DB0;
+$bodyLinkColorCustom: #2c2857;
+$navLinkColorCustom: #516DB0;
+$sidebarLinkColorCustom: #2c2857;
+$footerTextColorCustom: #706E6C;
+$buttonTextColorCustom: #FFFFFF;
+$buttonHoverTextColorCustom: #FFFFFF;
+$buttonBgColorCustom: #516DB0;
+$buttonHoverBgColorCustom: #2c2857;
+$borderColorCustom: #B4C0DD;
+**/
+
+$theme: "apero" !default;
+
+//
+// Color system
+//
+
+$body-bg: #f2f2f1 !default;
+$body-color: #404040 !default;
+$link-color: #2c2857 !default;
+$navbar-bg: transparent !default;
+$navbar-fg: #516DB0 !default;
+$input-bg: #FFFFFF !default;
+
+$btn-code-copy-color: #FFFFFF !default;
+$btn-code-copy-color-active: #FFFFFF !default;
+
+//
+// Fonts
+//
+
+//$font-family-sans-serif: Commissioner !default;
+
+/*-- scss:rules --*/
