@@ -7,7 +7,7 @@ listing:
   categories: false
   sort-ui: false
   filter-ui: false
-  page-size: 9
+  page-size: 10
   image-align: left
 comments: false
 ---
