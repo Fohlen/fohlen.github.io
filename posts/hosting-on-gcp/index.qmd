@@ -188,7 +188,7 @@ Where `10.132.0.8` points to the internal IP of your instance. I'll note a few t
 - some things like POST and file-upload support is notoriously hard to set up correctly, and the lack of observability doesn't help
 - depending on the initial OS you select [Ops Agent](https://cloud.google.com/monitoring/api/metrics_opsagent) might be available, which will give you your container's logs. That's nice
 
-This setup could get you started at $7$ per month (or even free in some regions), with DDoS protection.
+This setup could get you started at 7$ per month (or even free in some regions), with DDoS protection.
 
 # Rolling your own
 
@@ -203,7 +203,7 @@ You will need the following:
 6. log in your docker to Artifact Registry
 7. run [caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy?tab=readme-ov-file#basic-usage-example-using-docker-compose)
 
-This is a really low-effort solution that will work on virtually other VPS hoster, if you don't like GCP. However, you will loose all observability. It's like the sysadmin-days, with extra steps.
+This is a really low-effort solution, which will work on virtually any other VPS hoster, if you don't like GCP. However, you will loose all observability. It's like the sysadmin-days, with extra steps.
 
 # Infrastructure is still complex
 
@@ -211,4 +211,4 @@ Unfortunately, infrastructure is still complex. Docker has helped, by removing t
 This simply doesn't represent the reality for small to medium enterprises. One can move a lot on 2GB of RAM, and one should be able to do so as well.
 
 Cloud Run generally does a decent job of enabling low-cost scalable infrastructure, and maybe in a few years they will also support my use case.
-For the time being, the other strategies work just as well (with caveats).
+For the time being, the other strategies work just as well (albeit with caveats).
