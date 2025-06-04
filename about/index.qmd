@@ -7,11 +7,11 @@ about:
 
 Hi there! I am a Cognitive Scientist interested in the mechanisms underpinning (human and machine) learning. 
 
-My tinkering is primarily done in Python (🐍), which helps me prototype very quickly. My colleagues call me a _"professional thing breaker"_. Other than that I'm agnostic - most any problem deserves its own solution.
+My tinkering is primarily done in Python 🐍, which helps me prototype very quickly. My colleagues call me a _"professional thing breaker"_. Other than that I'm agnostic - most any problem deserves its own solution.
 
 ## Work
 
-Presently I work for [YUKKA Lab](https://www.yukkalab.com), a news analytics company, as the data engineering team lead of a fantastic group of people. We are aiming to create a comprehensive knowledge graph of the entire world.
+My last job was at [YUKKA Lab](https://www.yukkalab.com), a news analytics company, as the data engineering team lead of a fantastic group of people. We created a comprehensive knowledge graph of the entire world.
 Before I've worked with the great folks at [yWorks](https://www.yworks.com) and [mecodia](https://mecodia.de).
 
 ### Contact me
