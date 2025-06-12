@@ -14,6 +14,6 @@ comments: false
 
 <h1 class="text-center">Default page</h1>
 
-<p class="text-center"> This default page appears to be a data engineers's blog. Hopefully this clarifies some things. </p>
+<p class="text-center"> This default page appears to be a Cognitive Scientist's blog. Hopefully this clarifies some things. </p>
 
 ---
