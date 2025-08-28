@@ -66,10 +66,12 @@ You can include LaTeX equations in your slides, which is especially useful for s
 
 You can also include code:
 
-```{python}
+```{md}
 for i in range(3):
     print(i)
 ```
+
+Which will yield the output of your Python code into the presentation.
 
 Quarto has a lot more features and it is best to check out their [full documentation](https://quarto.org/docs/reference/formats/presentations/pptx.html#code).
 
