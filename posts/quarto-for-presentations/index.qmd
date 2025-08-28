@@ -30,7 +30,7 @@ First things first, you'll need to install Quarto - you can find the [installati
 Once you have Quarto installed, you can use any text editor (e.g Visual Studio Code) of your liking and create a new file with the extension `.qmd` (Quarto Markdown).
 We'll call our file `presentation.qmd` and fill it with the following content:
 
-```{md}
+```md
 ---
 title: "Quarto for scientific presentations"
 format: "pptx"
@@ -56,7 +56,7 @@ From now on you'll have all of the power of Markdown at your fingertips, allowin
 
 However, it wouldn't be a Quarto presentations if we didn't use some of its more advanced features:
 
-```{md}
+```md
 ## Slide 2
 
 What's the result of $y = mx + b$ when $m=2$, $x=3$ and $b=4$?
@@ -64,12 +64,18 @@ What's the result of $y = mx + b$ when $m=2$, $x=3$ and $b=4$?
 
 You can include LaTeX equations in your slides, which is especially useful for scientific presentations.
 
-You can also include code:
+You can also [include code](https://quarto.org/docs/output-formats/html-code.html#executable-blocks):
 
-```{python}
+```md
+## Slide 3
+
+python
 for i in range(3):
     print(i)
+
 ```
+
+Which will be executed and rendered - a good way to include your visualizations.
 
 Quarto has a lot more features and it is best to check out their [full documentation](https://quarto.org/docs/reference/formats/presentations/pptx.html#code).
 
@@ -79,7 +85,7 @@ For me to make Quarto really powerful in a corporate setting I want to be able t
 
 Quarto supports this by using [a template directive](https://quarto.org/docs/presentations/powerpoint.html#powerpoint-templates):
 
-```{md}
+```md
 ---
 title: "Presentation"
 format:
