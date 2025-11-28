@@ -3,6 +3,8 @@ title: "Building OCR pipelines with Google AI Studio"
 description: "This tutorial shows how one can leverage Google AI Studio and Gemini for Document OCR."
 author: "Lennard Berger"
 date: "2025-11-28"
+image-width: "600"
+image-height: "400"
 categories: [python,llm,ocr,google,gemini]
 ---
 
