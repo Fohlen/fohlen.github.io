@@ -3,6 +3,7 @@ title: "Building OCR pipelines with Google AI Studio"
 description: "This tutorial shows how one can leverage Google AI Studio and Gemini for Document OCR."
 author: "Lennard Berger"
 date: "2025-11-28"
+image: "example_bookshelf.webp"
 image-width: "600"
 image-height: "400"
 categories: [python,llm,ocr,google,gemini]
@@ -27,7 +28,7 @@ This blog post will present findings on building a reliable OCR pipeline in minu
 
 We'll start with the example that underlies this blog post, one of my bookshelves:
 
-![My bookshelf](./example_bookshelf.png)
+![My bookshelf](./example_bookshelf.webp)
 
 
 We want to build an OCR pipeline to give us the **title, language and authors** of every book in this bookshelf.
