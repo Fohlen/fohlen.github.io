@@ -97,7 +97,7 @@ Next, we want to set up the structured outputs tools. To do so, enable the _"Str
 ```
 
 Once you copied the schema, click save. Finally, you can run the prompt. The [finalised prompt on Google AI Studio is linked here](https://drive.google.com/file/d/1R6UHctxX-tV3ANYm8OYx7s2GrU5Tnn04/view?usp=sharing, https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221z8ER2S2kmXonm5DYPbQxVPQ6P0NCY_g-%22%5D,%22action%22:%22open%22,%22userId%22:%22101196815531449273723%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing).
-This gives us back a JavaScript output following the specified schema, namely a `books` array with `book` objects. An excerpt of the result is provided below:
+This gives us back a JSON output following the specified schema, namely a `books` array with `book` objects. An excerpt of the result is provided below:
 
 ```json
 {
