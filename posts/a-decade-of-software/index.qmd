@@ -2,7 +2,7 @@
 title: "A decade of software"
 description: "Reflections on my first decade in the profession of software engineering."
 author: "Lennard Berger"
-date: "2026-05-01"
+date: "2026-04-19"
 categories: [softwareengineering]
 ---
 
